@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devstefko
-- 👀 I’m interested in becoming a Frontend developer
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning HTML/CSS and Manual Testing
 - 💞️ I’m looking to collaborate on any kind of projects that would help me achieve my goal
 - 📫 How to reach me: stefkoothers@gmail.com
 
